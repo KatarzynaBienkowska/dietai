@@ -3,7 +3,7 @@ import streamlit as st
 st.set_page_config(
    page_title="DietAI",
    page_icon="🍉",
-   layout="centered"
+   layout="wide"
 )
 
 st.logo("images/logo.png", size="large")
